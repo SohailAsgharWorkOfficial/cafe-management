@@ -18,9 +18,9 @@ This is a simple cafe management system built using Python's Tkinter library. It
    git clone https://github.com/your_username/cafe-management.git
 
 2. Navigate to the project directory:
-
+   ```bash
    cd cafe-management
 
 3. Run the application:
-   
+   ```bash
    python cafe_management.py
