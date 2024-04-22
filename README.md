@@ -1,5 +1,3 @@
-# cafe-management
-
 ![proj_cafemanagementsystem](https://github.com/SohailAsgharWorkOfficial/cafe-management/assets/146017386/8e3f03ae-57b2-4fac-8ddc-9f14dff62a1c)
 
 # Cafe Management System
@@ -21,8 +19,8 @@ This is a simple cafe management system built using Python's Tkinter library. It
 
 2. Navigate to the project directory:
 
-cd cafe-management
+   cd cafe-management
 
 3. Run the application:
    
-python cafe_management.py
+   python cafe_management.py
