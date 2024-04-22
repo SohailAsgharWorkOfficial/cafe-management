@@ -24,3 +24,19 @@ This is a simple cafe management system built using Python's Tkinter library. It
 3. Run the application:
    ```bash
    python cafe_management.py
+
+## Usage
+
+1. Enter the quantity of each item in the respective entry fields.
+2. Click the "Total" button to calculate the total bill.
+3. Use the calculator for additional calculations if needed.
+4. Click the "Clear" button to clear all the fields.
+5. Click the "Exit" button or close the window to exit the application.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
